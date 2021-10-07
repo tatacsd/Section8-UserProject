@@ -1,0 +1,12 @@
+.input__container {
+    width: 100%;
+    margin: 0.4rem 0;
+    
+}
+.input__label {
+    display: block;
+    font-weight: bold;
+}
+.input__input {
+    width: 98%;
+}

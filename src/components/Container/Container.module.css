@@ -1,0 +1,10 @@
+.container {
+    padding: 1rem;
+    background-color: white;
+    min-width: fit-content;
+    width: 400px;
+    min-height: fit-content;
+    min-height: fit-content;
+    margin: 3rem auto;
+    border-radius: 8px;
+}
