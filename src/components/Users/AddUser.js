@@ -17,7 +17,11 @@ const AddUser = (props) => {
     if (age.trim().length === 0 || +age < 1) {
       return;
     }
-    console.log("username " + user + " age " + age);
+
+    // Lift state up
+    props.onAddUser(user, age);
+
+    // Reset state
     setAge("");
     setUser("");
   };
