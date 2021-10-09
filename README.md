@@ -5,7 +5,7 @@
     <a href="https://github.com/tatacsd/UserProject/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/w/tatacsd/UserProject" /></a>
   <a href="https://user-project-253s2jpdv-tatacsd.vercel.app/">
-        <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_message=online"></a>
+        <img alt="Website" src="https://img.shields.io/website?label=Website&url=https%3A%2F%2Fuser-project-253s2jpdv-tatacsd.vercel.app%2F"></a>
     <a href="https://twitter.com/intent/follow?screen_name=casadothays">
         <img src="https://img.shields.io/twitter/follow/CasadoThays?style=social"
             alt="follow on Twitter"></a>
